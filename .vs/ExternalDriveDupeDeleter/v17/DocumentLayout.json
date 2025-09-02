@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gregp\\CodeProjects\\Repos\\MyGitHubRepos\\ExternalDriveDupeDeleter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E0FF2-763B-21B7-4E67-2E8E7C899026}|ExternalDriveDupeDeleter.csproj|c:\\users\\gregp\\codeprojects\\repos\\mygithubrepos\\externaldrivedupedeleter\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AD4E0FF2-763B-21B7-4E67-2E8E7C899026}|ExternalDriveDupeDeleter.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\gregp\\CodeProjects\\Repos\\MyGitHubRepos\\ExternalDriveDupeDeleter\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\gregp\\CodeProjects\\Repos\\MyGitHubRepos\\ExternalDriveDupeDeleter\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-02T03:26:19.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
